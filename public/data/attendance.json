@@ -1,0 +1,8 @@
+[
+    { "id": 1, "type": "teacher", "date": "2025-06-25", "status": "Present" },
+    { "id": 2, "type": "teacher", "date": "2025-06-25", "status": "Absent" },
+    { "id": 1, "type": "staff", "date": "2025-06-25", "status": "Present" },
+    { "id": 2, "type": "staff", "date": "2025-06-25", "status": "Present" },
+    { "id": 1, "type": "student", "date": "2025-06-25", "status": "Present" },
+    { "id": 2, "type": "student", "date": "2025-06-25", "status": "Absent" }
+  ]

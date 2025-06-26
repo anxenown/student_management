@@ -1,0 +1,8 @@
+[
+    { "id": 1, "type": "teacher", "role": "Math Teacher" },
+    { "id": 2, "type": "teacher", "role": "Science Teacher" },
+    { "id": 1, "type": "staff", "role": "Administrator" },
+    { "id": 2, "type": "staff", "role": "Librarian" },
+    { "id": 1, "type": "student", "role": "Class Representative" },
+    { "id": 2, "type": "student", "role": "Student" }
+  ]
